@@ -1,0 +1,11 @@
+bytevault
+*.o
+*.out
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode/
+secret.txt
+hidden.bmp
+extracted.txt
+test.bmp
